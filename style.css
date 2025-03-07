@@ -6,6 +6,7 @@
 
 body{
 background-image: url(pacote-d012/imagens/pexels-farhan-ishraq-rudra.jpg);
+background-attachment: fixed;
 background-color: black;
 max-width: 1500px;
 min-width: 300px;
